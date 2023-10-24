@@ -1,6 +1,8 @@
 # Epson Connect Java SDK
 The Epson Connect Java SDK provides a comprehensive interface to the Epson Connect API. With this SDK, Java developers can seamlessly control Epson printers and scanners through the Epson cloud service.
 
+[Documentation](https://epson-america.github.io/epson-connect-java/)
+
 ## Getting Started
 ### Installation
 To include the SDK in your Gradle project, add the following in your `build.gradle`:
